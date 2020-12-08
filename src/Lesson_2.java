@@ -20,7 +20,7 @@ public class Lesson_2 {
         cats[1] = cat2;
         cats[2] = cat3;
         cats[3] = new Cat();
-
+        System.out.println("Chikago");
         System.out.println("sdkjfhdeuhgbiuhgfuifhdgikjfsuhdgjhifsdghjvfhjikfdgvjhnknvfjhikfvgjhikn");
 
         for (int i = 0; i < cats.length; i++) {
