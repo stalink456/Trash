@@ -21,10 +21,12 @@ public class Lesson_2 {
         cats[2] = cat3;
         cats[3] = new Cat();
 
+        System.out.println("sdkjfhdeuhgbiuhgfuifhdgikjfsuhdgjhifsdghjvfhjikfdgvjhnknvfjhikfvgjhikn");
+
         for (int i = 0; i < cats.length; i++) {
             System.out.println(cats[i].name + " " + cats[i].age);
-
         }
+
         System.out.println("Ni");
         System.out.println(getName() + " " + name);
 
