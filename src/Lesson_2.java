@@ -15,7 +15,7 @@ public class Lesson_2 {
         Cat cat3 = new Cat();
         cat3.name = "Nani";
         cat3.age = 54;
-
+        System.out.println("Critical error");
         cats[0] = cat1;
         cats[1] = cat2;
         cats[2] = cat3;
@@ -28,7 +28,7 @@ public class Lesson_2 {
         System.out.println("Ni");
         System.out.println(getName() + " " + name);
 
-        System.out.println("Hi");
+        System.out.println("NANI");
     }
 
     public static String getName() {
