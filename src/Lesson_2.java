@@ -27,6 +27,8 @@ public class Lesson_2 {
         }
         System.out.println("Ni");
         System.out.println(getName() + " " + name);
+
+        System.out.println("Hi");
     }
 
     public static String getName() {
